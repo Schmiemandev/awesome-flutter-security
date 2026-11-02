@@ -66,6 +66,7 @@ Contributions are what make the open-source community great! If you know of a to
 *Frameworks for scanning binaries and source code for misconfigurations.*
 
 * [MobSF (Mobile Security Framework)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - The primary all-in-one framework for scanning APK/IPA files.
+* [FlutterGuard](https://github.com/anasfik/FlutterGuard) - Offline Android app that reads an installed Flutter app or APK on the device: manifest policy, compiled library, endpoints and exposed strings, with local reports.
 
 ## Vulnerable Apps (Sandboxes)
 *Practice your hacking and static analysis skills on intentionally vulnerable applications.*
